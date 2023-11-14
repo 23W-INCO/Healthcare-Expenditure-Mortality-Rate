@@ -2,7 +2,7 @@
 Analyzing the Relationship Between Healthcare Expenditure and Mortality Rates in Countries
 
 ## Description:
-This project aims to investigate the correlation between the amount of money spent on healthcare in a country and its mortality rates. By analyzing datasets, we seek to understand how variations in healthcare expenditure may impact overall mortality rates, considering different countries and their respective healthcare systems.
+This project aims to investigate the correlation between the amount of money spent on healthcare in a country and its mortality rates. By analyzing datasets, we can understand how variations in healthcare expenditure may impact overall mortality rates, considering different countries and their respective healthcare systems.
 
 ## Key User Groups:
 Health economists, policymakers, and public health researchers interested in understanding the relationship between healthcare spending and mortality outcomes on a global scale.

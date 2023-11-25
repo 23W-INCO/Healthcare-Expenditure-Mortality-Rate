@@ -15,5 +15,5 @@ Choosing a choropleth map for visualizing the relationship between healthcare ex
 
 ### THE DATA STILL NEEDS WORK THAT'S WHY THE MAP IS ALL BACK. I AM WORKING ON IT. SORRY.
 
-![Alt Text](Screenshot 2023-11-25 143048.pnG)
+
 <img src="Screenshot 2023-11-25 143048.png"/>

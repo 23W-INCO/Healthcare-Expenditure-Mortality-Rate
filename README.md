@@ -13,7 +13,7 @@ Users aim to gain insights into the potential association between healthcare exp
 ## Visualization using a Choropleth map:
 Choosing a choropleth map for visualizing the relationship between healthcare expenditure as a percentage of government expenditure and mortality rates in countries is highly effective and efficient. This visualization leverages geographical context, utilizing color gradients to distinguish values and enabling easy comparison across countries. 
 
-### THE DATA STILL NEEDS WORK THAT'S WHY THE MAP IS ALL BACK. I AM WORKING ON IT. SORRY.
+### The data is fixed. I am currently working on making a slider to show different years.
 
 
 <img src="Screenshot 2023-11-25 143048.png"/>

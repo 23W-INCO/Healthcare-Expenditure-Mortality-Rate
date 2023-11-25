@@ -16,5 +16,4 @@ Choosing a choropleth map for visualizing the relationship between healthcare ex
 ### THE DATA STILL NEEDS WORK THAT'S WHY THE MAP IS ALL BACK. I AM WORKING ON IT. SORRY.
 
 ![Alt Text](Screenshot 2023-11-25 143048.pnG)
-
-Screenshot 2023-11-25 143048.pn
+<img src="https://d1.awsstatic.com/logos/openai/openai_logo.1b45f6af2c57fd674390b0bfc33ee4f94b6d4d6c.png" alt="OpenAI Logo" width="200"/>
